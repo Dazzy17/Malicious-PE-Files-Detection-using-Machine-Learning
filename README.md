@@ -2,7 +2,7 @@
 
 This project is about to find a best model to detect the maliciousness of the portable documents giving the best and accurate results.
 
-Project Organization
+# Project Organization
 
 ```
 ├── README.md
@@ -32,4 +32,18 @@ Project Organization
     ├── tools                     <- Training loop and custom tools for the project
     │   ├── train.py              <- Script for combining all parts for training
 └── __main__.py                   <- File to train the model
+```
+
+# To run this project
+
+```
+pip install -r requirements.txt
+```
+
+```
+cd..
+```
+
+```
+python -m MLOps
 ```
