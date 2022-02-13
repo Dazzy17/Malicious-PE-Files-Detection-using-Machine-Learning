@@ -4,6 +4,7 @@ This project is about to find a best model to detect the maliciousness of the po
 
 Project Organization
 
+```
 ├── README.md
 ├── data
 │   ├── train                    <- Data from third-party sources.
@@ -31,3 +32,4 @@ Project Organization
     ├── tools                     <- Training loop and custom tools for the project
     │   ├── train.py              <- Script for combining all parts for training
 └── __main__.py                   <- File to train the model
+```
