@@ -45,5 +45,5 @@ cd..
 ```
 
 ```
-python -m MLOps
+python -m Malicious-PE-Files-Detection-using-Machine-Learning
 ```
