@@ -2,6 +2,8 @@
 
 This project is about to find a best model to detect the maliciousness of the portable documents giving the best and accurate results.
 
+WARNING : you can only test malwares that's already on the dataset that provided to the project, please be kind to use a new dataset and add to this project if you want to test the new malwares.
+
 # Project Organization
 
 ```
