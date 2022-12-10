@@ -43,5 +43,11 @@ cd ..
 ```
 
 ```bash
-python -m MLOps
+python -m Malicious-PE-Files-Detection-using-Machine-Learning
+```
+
+
+```bash
+run the program
+streamlit run <app name>
 ```
