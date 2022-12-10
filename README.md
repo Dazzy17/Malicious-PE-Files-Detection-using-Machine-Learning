@@ -49,3 +49,7 @@ cd..
 ```
 python -m Malicious-PE-Files-Detection-using-Machine-Learning
 ```
+
+```
+run "streamlit run <name of the app.py>" in terminal window
+```
