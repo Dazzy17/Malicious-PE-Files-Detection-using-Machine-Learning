@@ -1,0 +1,36 @@
+2022-05-28/09:22:20		Decision Trees:- TP : 92 and FP : 35 and TN : 233 and FN : 5
+2022-05-28/09:22:20		Decision Trees Precision Score is 0.7244094488188977 and Recall Score is 0.9484536082474226 and F1 Score is 0.8214285714285714 and Accuracy Score is 87.11885940146809
+2022-05-28/09:22:20		Random Forest:- TP : 94 and FP : 1 and TN : 267 and FN : 3
+2022-05-28/09:22:20		Random Forest:- Precision Score is 0.9894736842105263 and Recall Score is 0.9690721649484536 and F1 Score is 0.9791666666666666 and Accuracy Score is 98.58658612143742
+2022-05-28/09:22:20		LGBM:- TP : 94 and FP : 2 and TN : 266 and FN : 3
+2022-05-28/09:22:20		LightGBM Precision Score is 0.9791666666666666 and Recall Score is 0.9690721649484536 and F1 Score is 0.9740932642487047 and Accuracy Score is 98.23911386420431
+2022-05-28/09:22:20		XGBoost:- TP : 92 and FP : 5 and TN : 263 and FN : 5
+2022-05-28/09:22:20		Precision Score is 0.9484536082474226 and Recall Score is 0.9484536082474226 and F1 Score is 0.9484536082474226 and Accuracy Score is 96.4898445914756
+2022-05-28/09:22:20		Random Forest model is selected as the best model
+2022-05-28/11:25:31		Decision Trees:- TP : 72 and FP : 36 and TN : 251 and FN : 6
+2022-05-28/11:25:31		Decision Trees Precision Score is 0.6666666666666666 and Recall Score is 0.9230769230769231 and F1 Score is 0.7741935483870968 and Accuracy Score is 84.84938330170777
+2022-05-28/11:25:31		Random Forest:- TP : 76 and FP : 1 and TN : 286 and FN : 2
+2022-05-28/11:25:31		Random Forest:- Precision Score is 0.987012987012987 and Recall Score is 0.9743589743589743 and F1 Score is 0.9806451612903225 and Accuracy Score is 98.77138849929874
+2022-05-28/11:25:31		LGBM:- TP : 77 and FP : 2 and TN : 285 and FN : 1
+2022-05-28/11:25:31		LightGBM Precision Score is 0.9746835443037974 and Recall Score is 0.9871794871794872 and F1 Score is 0.980891719745223 and Accuracy Score is 98.78280588254911
+2022-05-28/11:25:31		XGBoost:- TP : 76 and FP : 2 and TN : 285 and FN : 2
+2022-05-28/11:25:31		Precision Score is 0.9743589743589743 and Recall Score is 0.9743589743589743 and F1 Score is 0.9743589743589743 and Accuracy Score is 98.36951666219959
+2022-05-28/11:25:31		LightGBM model is selected as the best model
+2022-05-28/11:28:11		Decision Trees:- TP : 99 and FP : 37 and TN : 225 and FN : 4
+2022-05-28/11:28:11		Decision Trees Precision Score is 0.7279411764705882 and Recall Score is 0.9611650485436893 and F1 Score is 0.8284518828451881 and Accuracy Score is 87.24744139276856
+2022-05-28/11:28:11		Random Forest:- TP : 102 and FP : 2 and TN : 260 and FN : 1
+2022-05-28/11:28:11		Random Forest:- Precision Score is 0.9807692307692307 and Recall Score is 0.9902912621359223 and F1 Score is 0.9855072463768114 and Accuracy Score is 98.98855543547536
+2022-05-28/11:28:11		LGBM:- TP : 102 and FP : 3 and TN : 259 and FN : 1
+2022-05-28/11:28:11		LightGBM Precision Score is 0.9714285714285714 and Recall Score is 0.9902912621359223 and F1 Score is 0.9807692307692307 and Accuracy Score is 98.65531977600943
+2022-05-28/11:28:11		XGBoost:- TP : 101 and FP : 3 and TN : 259 and FN : 2
+2022-05-28/11:28:11		Precision Score is 0.9711538461538461 and Recall Score is 0.9805825242718447 and F1 Score is 0.9758454106280192 and Accuracy Score is 98.31425905912563
+2022-05-28/11:28:11		Random Forest model is selected as the best model
+2022-05-29/02:22:11		Decision Trees:- TP : 92 and FP : 34 and TN : 235 and FN : 4
+2022-05-29/02:22:11		Decision Trees Precision Score is 0.7301587301587301 and Recall Score is 0.9583333333333334 and F1 Score is 0.8288288288288289 and Accuracy Score is 87.70128396112649
+2022-05-29/02:22:11		Random Forest:- TP : 94 and FP : 1 and TN : 268 and FN : 2
+2022-05-29/02:22:11		Random Forest:- Precision Score is 0.9894736842105263 and Recall Score is 0.9791666666666666 and F1 Score is 0.9842931937172775 and Accuracy Score is 98.93636655042788
+2022-05-29/02:22:11		LGBM:- TP : 95 and FP : 2 and TN : 267 and FN : 1
+2022-05-29/02:22:11		LightGBM Precision Score is 0.979381443298969 and Recall Score is 0.9895833333333334 and F1 Score is 0.9844559585492227 and Accuracy Score is 98.94346831852259
+2022-05-29/02:22:11		XGBoost:- TP : 93 and FP : 2 and TN : 267 and FN : 3
+2022-05-29/02:22:11		Precision Score is 0.9789473684210527 and Recall Score is 0.96875 and F1 Score is 0.9738219895287958 and Accuracy Score is 98.22727758404648
+2022-05-29/02:22:11		LightGBM model is selected as the best model
